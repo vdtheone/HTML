@@ -1,0 +1,53 @@
+body{
+    /* background-color: aqua; */
+    background-image: url("photo-1644982648791-a010e61aa845.avif");
+    /* background-repeat: no-repeat;
+    background-position: top left; */
+    background-size:cover;
+
+    /* background-attachment: fixed; */
+
+}
+
+.ptext{
+    font-size: large;
+    font-family: cursive;
+    font-style: italic;
+    color:blue 
+}
+
+h1{
+    border: 2px solid white;
+}
+
+.container{
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sb{
+    /* border: 2px solid seagreen; */
+
+    border-style: dotted solid double dashed;
+    border-color: brown;
+}
+
+.dg{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.mg{
+    margin: 10px;
+    padding: 50px;
+    border: 2px solid red;
+    height: 50px;
+    width: 150px;
+}
+
+div{
+    margin: 70px;
+    border: 2px solid #66eca8;
+    
+}
+
